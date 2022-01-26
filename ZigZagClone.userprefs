@@ -1,0 +1,10 @@
+﻿<Properties StartupConfiguration="{A4FC0106-9A70-256E-36A7-8783F3341F47}|">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ZigZagClone PreferredExecutionTarget="Unity.Editor" />
+</Properties>
